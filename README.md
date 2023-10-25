@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> <a herf="https://www.google.com/search?q=Abhijat+Sarari"> </a>
-  You can learn more about me by searching for "Abhijat Sarari" on the internet.
+  You can learn more about me by searching for ["Abhijat Sarari"](https://www.google.com/search?q=Abhijat+Sarari) on the internet.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdfa&label=Profile%20views&color=0e75b6&style=flat" alt="sdfa" /> </p>
