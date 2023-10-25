@@ -2,7 +2,7 @@
   <img src="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg" alt="Your Name" width="400" height="400" />
 </p>
 
-<h1 align="center">Abhijat Sarari</h1>
+<h1 align="center" href="https://www.google.com/search?q=Abhijat+Sarari">Hi 👋, I'm Abhijat</h1>
 
 <p align="center">
   Welcome to my GitHub profile! 🚀
@@ -12,6 +12,11 @@
   You can learn more about me by searching for "Abhijat Sarari" on the internet.
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdfa&label=Profile%20views&color=0e75b6&style=flat" alt="sdfa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdfa" alt="sdfa" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/asdf" target="blank"><img src="https://img.shields.io/twitter/follow/asdf?logo=twitter&style=for-the-badge" alt="asdf" /></a> </p>
 ### About Me
 
 I am a passionate developer with a love for technology and innovation. My interests range from software development to artificial intelligence, and I'm always eager to learn new things.
