@@ -8,7 +8,7 @@
   Welcome to my GitHub profile! 🚀
 </p>
 
-<p align="center" herf="https://www.google.com/search?q=Abhijat+Sarari">
+<p align="center" <a herf="https://www.google.com/search?q=Abhijat+Sarari"> </a> >
   You can learn more about me by searching for "Abhijat Sarari" on the internet.
 </p>
 
