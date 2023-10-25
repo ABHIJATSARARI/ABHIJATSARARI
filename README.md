@@ -1,30 +1,41 @@
-## ABhijat Sarari
+<!DOCTYPE html>
+<html>
+<head>
+<title>Abhijat Sarari</title>
+<style>
+body {
+  background-color: black;
+  color: white;
+}
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.video {
+  width: 100%;
+  height: 300px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Abhijat Sarari</h1>
+<p>I am a software engineer at Google AI. I am interested in machine learning, natural language processing, and computer vision.</p>
+<ul>
+<li><a href="https://www.linkedin.com/in/abhijat-sarari/">LinkedIn</a></li>
+<li><a href="https://twitter.com/abhijat_sarari/">Twitter</a></li>
+</ul>
 
-To learn more about me, search ABhijat Sarari on the internet.
+<div class="video">
+<iframe src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
 
-### Skills
-
-* Software Engineering
-* Web Development
-* Machine Learning
-* Data Science
-
-### Interests
-
-* Artificial Intelligence
-* Robotics
-* Space Exploration
-* Philosophy
-
-### Projects
-
-* [Project 1](https://github.com/abhijat-sarari/project-1)
-* [Project 2](https://github.com/abhijat-sarari/project-2)
-* [Project 3](https://github.com/abhijat-sarari/project-3)
-
-### Interactive Features
-
-* [Background animation](https://example.com/modal)
-* [Interactive buttons](https://twitter.com/abhijat_sarari, https://linkedin.com/in/abhijat-sarari/)
-* [Scroll-triggered animations](https://abhijatsarari.com/)
-* [Interactive charts and graphs](https://github.com/abhijat-sarari/project-1)
+<script>
+document.addEventListener("mousemove", function(e) {
+  document.body.style.backgroundColor = "rgb(" + e.clientX + "," + e.clientY + ", 0)";
+});
+</script>
+</body>
+</html>
