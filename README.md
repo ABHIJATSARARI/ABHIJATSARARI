@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg" alt="Your Name" width="400" height="400" />
+  <img src="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg" alt="Your Name" width="400" height="400" href="https://www.google.com/search?q=Abhijat+Sarari />
 </p>
 
-<h1 align="center" href="https://www.google.com/search?q=Abhijat+Sarari">Hi 👋, I'm Abhijat</h1>
+<h1 align="center"> <a href="https://www.google.com/search?q=Abhijat+Sarari> Hi 👋, I'm Abhijat</h1>
 
 <p align="center">
   Welcome to my GitHub profile! 🚀
