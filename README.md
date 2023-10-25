@@ -40,10 +40,7 @@ Here are some of the projects I've been working on:
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhijatSarari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhijatSarari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatSarari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
