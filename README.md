@@ -30,6 +30,13 @@
 
 I am a passionate developer with a love for technology and innovation. My interests range from software development to artificial intelligence, and I'm always eager to learn new things.
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbhijatSarari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbhijatSarari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatSarari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ### Projects
 
 Here are some of the projects I've been working on:
