@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/Picture1.png" alt="Your Name" width="400" height="400" />
+  <img src="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg" alt="Your Name" width="400" height="400" />
 </p>
 
 <h1 align="center">Abhijat Sarari</h1>
