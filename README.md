@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg" alt="Your Name" width="400" height="400" href="https://www.google.com/search?q=Abhijat+Sarari />
+  <img src="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg" alt="Your Name" width="400" height="400" />
 </p>
 
 <h1 align="center"> Hi 👋, I'm Abhijat</h1>
