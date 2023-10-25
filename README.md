@@ -8,7 +8,7 @@
   Welcome to my GitHub profile! 🚀
 </p>
 
-<p align="center" <a herf="https://www.google.com/search?q=Abhijat+Sarari"> </a> >
+<p align="center"> <a herf="https://www.google.com/search?q=Abhijat+Sarari"> </a>
   You can learn more about me by searching for "Abhijat Sarari" on the internet.
 </p>
 
@@ -17,6 +17,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdfa" alt="sdfa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/asdf" target="blank"><img src="https://img.shields.io/twitter/follow/asdf?logo=twitter&style=for-the-badge" alt="asdf" /></a> </p>
+
 ### About Me
 
 I am a passionate developer with a love for technology and innovation. My interests range from software development to artificial intelligence, and I'm always eager to learn new things.
