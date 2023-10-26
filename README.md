@@ -42,8 +42,13 @@
 
 ### About Me
 
-I am a passionate developer with a love for technology and innovation. My interests range from software development to artificial intelligence, and I'm always eager to learn new things.
-
+<div align="center">
+	<br>
+	<a href="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbhijatSarari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
