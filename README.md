@@ -2,7 +2,7 @@
 <html>
 <head>
 </head>
-<body background="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg">   <!-- adding background image to the entire webpage -->   
+<body background="ci3-LCSY_400x400.jpg">   <!-- adding background image to the entire webpage -->   
     <center>
         <h1>How do I feel?</h1>
         <h2>I am happy!</h2>       
