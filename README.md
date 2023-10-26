@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body style="background-color:powderblue;">
-    <center>
-        <h1>How do I feel?</h1>
-        <h2>I am happy!</h2>       
-    </center>
-</body>  
-</html>
-
-
-<p style="background-image: url('https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg');"> 
 <p align="center">
   <img src="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg" alt="Your Name" width="400" height="400" />
 </p>
