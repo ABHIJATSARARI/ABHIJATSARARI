@@ -6,7 +6,7 @@
 	</a>
 	<br>
 </div>
-
+#
 
 # 🏆 GitHub Trophies
 
@@ -22,6 +22,8 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=AbhijatSarari&limit=5&theme=apprentice&combine_all_yearly_contributions=False&no-bg=true" alt="Sublime's custom image"/>
 </p>
 
+#
+
 
 # 📊 GitHub Stats:
 
@@ -32,7 +34,7 @@
 <img style="height: 60; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijatSarari&theme=dark&hide_border=true" /></div>
 </div>
 
-
+#
 
 
 # Projects
@@ -45,7 +47,7 @@ Here are some of the projects I've been working on:
 
 
 
-
+#
 
 
 # Connect with me
@@ -70,6 +72,9 @@ Here are some of the projects I've been working on:
 
 
 </p>
+
+#
+#
 
 # Tech Stack
 
@@ -234,6 +239,8 @@ Here are some of the projects I've been working on:
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
     </a>
 </p>
+
+#
 
 
 # ✍️ Random Dev Quote
