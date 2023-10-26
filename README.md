@@ -250,11 +250,6 @@ Here are some of my latest videos on YouTube:
 [![Video 3](video-thumbnail-3.jpg)](https://www.youtube.com/watch?v=yourvideo3)
 
 
-# 😂 Random Dev Meme
-
-<div align="center">
-<img src="https://randommeme-five.vercel.app/" alt="Sublime's custom image" style="height: 400px/>
-</div>
 
 # 
 <p>
