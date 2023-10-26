@@ -1,3 +1,4 @@
+<p style="background-image: url('img_girl.jpg');"> 
 <p align="center">
   <img src="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg" alt="Your Name" width="400" height="400" />
 </p>
