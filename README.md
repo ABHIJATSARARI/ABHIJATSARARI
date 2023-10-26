@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>
-        My Mood Today
-    </title>
 </head>
-<body background="smile.jpeg">   <!-- adding background image to the entire webpage -->   
+<body background="https://github.com/ABHIJATSARARI/ABHIJATSARARI/blob/main/ci3-LCSY_400x400.jpg">   <!-- adding background image to the entire webpage -->   
     <center>
         <h1>How do I feel?</h1>
         <h2>I am happy!</h2>       
