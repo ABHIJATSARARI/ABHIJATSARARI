@@ -15,10 +15,12 @@
 </p>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbhijatSarari&limit=5&theme=apprentice&combine_all_yearly_contributions=False&no-bg=true)
+# 🔝 Top Contributed Repo
 
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AbhijatSarari&limit=5&theme=apprentice&combine_all_yearly_contributions=False&no-bg=true" alt="Sublime's custom image"/>
+</p>
 
 
 # 📊 GitHub Stats:
@@ -241,13 +243,6 @@ Here are some of the projects I've been working on:
 </p>
 
 
-# Latest YouTube Videos
-
-Here are some of my latest videos on YouTube:
-
-[![Video 1](video-thumbnail-1.jpg)](https://www.youtube.com/watch?v=yourvideo1)
-[![Video 2](video-thumbnail-2.jpg)](https://www.youtube.com/watch?v=yourvideo2)
-[![Video 3](video-thumbnail-3.jpg)](https://www.youtube.com/watch?v=yourvideo3)
 
 
 
