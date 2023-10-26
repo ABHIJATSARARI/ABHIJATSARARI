@@ -37,11 +37,11 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=AbhijatSarari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-</div>
+
+![](https://github-readme-stats.vercel.app/apiusername=AbhijatSarari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhijatSarari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijatSarari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://www.google.com/search?q=Abhijat+Sarari)
 
 
 ### Projects
