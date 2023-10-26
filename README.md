@@ -2,7 +2,7 @@
 <html>
 <head>
 </head>
-<body background="ci3-LCSY_400x400.jpg">   <!-- adding background image to the entire webpage -->   
+<body style="background-color:powderblue;">
     <center>
         <h1>How do I feel?</h1>
         <h2>I am happy!</h2>       
