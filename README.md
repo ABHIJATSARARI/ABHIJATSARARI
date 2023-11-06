@@ -34,8 +34,9 @@
 <img style="height: 60; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijatSarari&theme=dark&hide_border=true" /></div>
 </div>
 
-#
+# Badges
 
+[![An image of @abhijatsarari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijatsarari)](https://holopin.io/@abhijatsarari)
 
 # Projects
 
